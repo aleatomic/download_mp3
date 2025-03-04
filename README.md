@@ -9,7 +9,6 @@ Si usas **Windows**, simplemente ejecuta el siguiente archivo, que se encuentra 
 
 install.bat
 
-
 ### 2️⃣ ¿Qué instala?
 - `yt_dlp` → Para descargar audios de YouTube.  
 - `ffmpeg` → Para convertir a MP3 y añadir la portada.  
