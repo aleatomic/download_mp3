@@ -4,8 +4,8 @@ import yt_dlp
 def descargar_mp3(url):
     opciones = {
         'format': 'bestaudio/best', # Descarga el mejor audio disponible
-        #'outtmpl': '%(title)s.%(ext)s', # Guarda el archivo con el título del video
-        'optmpl': 'musica/%(title)s.%(ext)s',
+        'outtmpl': '%(title)s.%(ext)s', # Guarda el archivo con el título del video
+        #'optmpl': 'musica/%(title)s.%(ext)s',
         'postprocessors': [ # Convertimos el audio descargado a mp3
             {'key': 'FFmpegExtractAudio', 'preferredcodec': 'mp3', 'preferredquality': '192'},
             {'key': 'EmbedThumbnail'}, # Agrega la miniatura del video como carátula del mp3
