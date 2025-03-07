@@ -4,7 +4,7 @@ Este es un script hecho en Python que permite descargar música de YouTube en fo
 ## 📥 Instalación
 1️⃣ Instalación de Python
 Si no tienes instalado Python, primero debes instalarlo para poder usar este script. Ve a la página oficial de Python y descarga la versión más estable:
-[Descarga_Pyhton](https://www.python.org/downloads/)
+[Descarga_Python](https://www.python.org/downloads/)
 
 Una vez descargado, ejecuta el instalador y sigue los pasos de instalación.
 
@@ -54,7 +54,7 @@ Ahora solo descarga el archivo ZIP de este repositorio, descomprímelo y mueve l
 🔹 Paso 3: Ejecuta el script:
 Ejecuta el siguiente comando:
 ```
-pyhton download_mp3.py
+python download_mp3.py
 ```
 El script te pedirá que ingreses la URL de la canción que deseas descargar.
 Presiona Enter y tu música se descargará en la carpeta "musica". 🎶
