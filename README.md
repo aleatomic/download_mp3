@@ -29,4 +29,7 @@ Este proyecto aun se encuentra en desarrollo, se esta desarrollando por el momen
 para Linux y MacOS tambien, y logrando tambien poder descargar videos. El objetivo es poder tener una herramienta gratuita, facil de usar
 y confiable.
 
+# Licencia
+Este proyecto está bajo la Licencia MIT. Puedes ver el archivo LICENSE para más detalles. Esto significa que eres libre de usar, modificar y distribuir el código, siempre y cuando mantengas el aviso de copyright original.
+
 > by https://github.com/aleatomic 
